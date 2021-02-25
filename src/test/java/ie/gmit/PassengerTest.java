@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
 public class PassengerTest {
 
-
+//
     @Test
     void setUpPassenger() {
         //Passenger p = new Passenger("Mr", "Johhny", "012345678910", "0873212121", 20);
